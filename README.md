@@ -1,2 +1,2 @@
 # Reaction_time
-using html javascript and css
+Using html javascript and css
