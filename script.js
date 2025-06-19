@@ -18,3 +18,6 @@ box.onclick = function () {
     alert(`Box clicked and reaction time is ${reactiontime}`);
     moveBox();
 };
+
+// Call moveBox when the page loads to initialize the timer and position
+moveBox();
